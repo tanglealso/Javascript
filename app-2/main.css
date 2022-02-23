@@ -1,0 +1,16 @@
+#divOne {
+    background-color: black;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    border: 20px solid orange;
+    color: white;
+    padding: 5px;
+      
+ }  
+
+ #divTwo {
+    background-color: black;
+    height: 200px;
+    width: 200px;
+ }
