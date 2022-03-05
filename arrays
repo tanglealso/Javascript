@@ -1,0 +1,36 @@
+const myArray = [22, "Max", [1,2], 22];
+console.log("myArray ", myArray);
+console.log("myArray);
+
+
+
+
+
+
+const myArray = [1, 2, 3, 4, 30, 2, 32];
+//push()
+
+console.log("before ", myArray);
+myArray.push(5);
+console.log("before ", myArray);
+
+const myArray = [1, 2, 3, 4, 30, 2, 32];
+// includes
+const hasTheNumber32 = myArray.includes(32);
+
+console.log(hasTheNumber32);
+
+
+
+const myArray = ["max", "joe", "dana", "sarah"]
+//filter
+
+// const myFunction = () => {};
+// () => {}
+myArray.filter((data) => {
+    debugger
+    const indexOf("a");
+    const hasTheLetterA = indexOfA !== -1
+    const hasTheLetterA; !== -1;
+    return hasTheLetterA;
+})

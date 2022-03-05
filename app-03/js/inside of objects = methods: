@@ -1,0 +1,14 @@
+inside of objects = methods:
+
+    myName: "Isiah",
+    icenseNumber = 12345,
+    sayHi: () => {
+        console.log("Hi, my name is Isiah");
+        }
+    }
+
+    console.log(me.licenseNumber);
+    console.log(me.myName);
+    console.log(me.licenseNumber);
+
+    me

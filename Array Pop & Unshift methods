@@ -1,0 +1,14 @@
+Array Pop & Unshift methods
+const myArray = ["max", "joe", "dana", "sarah"];
+
+// Popconsole.log("before: ", myArray);
+
+myArray.pop();
+
+console.log("after: ", myArray);
+
+//Unshift
+
+myArray.unshift("Sarah");
+
+console.log
